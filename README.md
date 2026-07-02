@@ -106,9 +106,3 @@ Precision (Malignant): 0.98
 - [TensorFlow Keras Sequential Model](https://www.tensorflow.org/guide/keras/sequential_model)  
 - [Random Forest Classifier](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html)  
 
----
-
-## 👩‍💻 Author
-
-**Ann Mathew** — AI + medicine + open source  
-Built with care for learners, researchers, and healthcare innovators.
